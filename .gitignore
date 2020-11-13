@@ -1,0 +1,13 @@
+# heplpers/ - hellpers directory
+# **/logs - all logs directory
+# *.log - all log files 
+# helpers/**/*.js - all .js files in hepers directory
+
+
+# ignore all js files in helpers/ but not in helper3 directory
+# helpers/**/*.js
+# !helpers/helper3/*.js
+
+apache/
+helpers/
+logs/
