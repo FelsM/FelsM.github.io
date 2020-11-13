@@ -8,6 +8,9 @@
 # helpers/**/*.js
 # !helpers/helper3/*.js
 
+# logs/errorlog[1-7].log
+# logs/errorlog[a-z].log - errorloga,errorlogx
+
 apache/
 helpers/
 logs/
